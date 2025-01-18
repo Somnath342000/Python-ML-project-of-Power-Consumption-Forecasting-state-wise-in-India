@@ -26,9 +26,6 @@ This project involves time series forecasting to predict the electricity consump
    - Common models that might be used include:
      - **ARIMA (AutoRegressive Integrated Moving Average):** Suitable for univariate time series data with trends.
      - **SARIMA (Seasonal ARIMA):** An extension of ARIMA that captures seasonality in the data.
-     - **Exponential Smoothing (ETS):** Another time series forecasting technique that accounts for trend and seasonality.
-     - **Facebook Prophet:** A forecasting model that works well with daily data and can handle missing data and outliers.
-     - **LSTM (Long Short-Term Memory):** A type of recurrent neural network (RNN) used for sequence prediction tasks.
 
 5. **Model Evaluation:**
    - The model’s accuracy is measured using metrics such as **Mean Absolute Percentage Error (MAPE)**, **Root Mean Squared Error (RMSE)**, and others.
