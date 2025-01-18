@@ -90,6 +90,4 @@ This project involves time series forecasting to predict the electricity consump
 #### **Conclusion:**
 This time series forecasting project provides valuable insights into future electricity demand for each state in India. By accurately predicting the demand, electricity providers can improve supply chain management, reduce outages, and implement efficient energy distribution strategies. The project employs state-of-the-art machine learning and statistical models to offer highly accurate and actionable insights for the future of electricity consumption in India.
 
---- 
-
-Feel free to modify the details according to your project's specific dataset and the models you used. Let me know if you'd like additional details or help with any specific part of the description!
+---
